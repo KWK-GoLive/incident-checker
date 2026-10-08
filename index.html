@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Incident Classification Checker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="in">
+  <h1>Incident Classification: answer checker</h1>
+  <p>Upload your answer file (.csv or .xlsx) and see how many of the 300 reports you classified correctly.</p>
+</div></header>
+<main>
+
+<section class="card">
+  <h2>1. Files</h2>
+  <p class="muted">The problem and the 300 incident reports:</p>
+  <div class="dl">
+    <a href="files/Incident_Classification_problem.docx" download>Problem statement (.docx)</a>
+    <a href="files/Incident_Classification_slides.pptx" download>Slides (.pptx)</a>
+    <a href="files/incident_reports.txt" download>incident_reports.txt</a>
+    <a href="files/incident_reports.xlsx" download>incident_reports.xlsx</a>
+  </div>
+  <p class="muted">Blank answer templates (ids 1 to 300 already filled in, type and severity empty):</p>
+  <div class="dl">
+    <a href="files/answer_template.csv" download>answer_template.csv</a>
+    <a href="files/answer_template.xlsx" download>answer_template.xlsx</a>
+  </div>
+</section>
+
+<section class="card">
+  <h2>2. What your answer file must look like</h2>
+  <div class="two">
+    <div>
+      <p><b>Excel (.xlsx)</b>: first sheet, header in row 1, one report per row.</p>
+      <div class="wrap"><table class="sample" aria-label="Example of an Excel answer sheet">
+        <tr><th class="rn"></th><th>A</th><th>B</th><th>C</th></tr>
+        <tr><td class="rn">1</td><td>id</td><td>type</td><td>severity</td></tr>
+        <tr><td class="rn">2</td><td>1</td><td>Release</td><td>Medium</td></tr>
+        <tr><td class="rn">3</td><td>2</td><td>Near miss</td><td>Low</td></tr>
+        <tr><td class="rn">4</td><td>3</td><td>Injury</td><td>High</td></tr>
+        <tr><td class="rn">…</td><td>…</td><td>…</td><td>…</td></tr>
+        <tr><td class="rn">301</td><td>300</td><td>Equipment</td><td>Medium</td></tr>
+      </table></div>
+    </div>
+    <div>
+      <p><b>CSV (.csv)</b>: plain text, comma between columns.</p>
+<pre class="csv">id,type,severity
+1,Release,Medium
+2,Near miss,Low
+3,Injury,High
+…
+300,Equipment,Medium</pre>
+    </div>
+  </div>
+  <p class="muted" style="margin:4px 0 8px">The labels in these examples only show the layout. They are not the answers.</p>
+  <ul>
+    <li>Header row with exactly these three column names: <code>id</code>, <code>type</code>, <code>severity</code>. The order of the columns does not matter. Other columns are ignored.</li>
+    <li>300 rows: ids 1 to 300, each id once.</li>
+    <li>Upper or lower case and extra spaces do not matter (<code>near miss</code> = <code>Near miss</code>), but the spelling must match.</li>
+  </ul>
+  <p style="margin:8px 0 2px"><b>type</b> must be one of:</p>
+  <div class="chips"><span class="chip">Injury</span><span class="chip">Fire</span><span class="chip">Release</span><span class="chip">Equipment</span><span class="chip">Near miss</span></div>
+  <p style="margin:8px 0 2px"><b>severity</b> must be one of:</p>
+  <div class="chips"><span class="chip">High</span><span class="chip">Medium</span><span class="chip">Low</span></div>
+</section>
+
+<section class="card">
+  <h2>3. Check your answers</h2>
+  <form id="f" novalidate>
+    <div class="two">
+      <div><label for="sid">Student ID</label><input type="text" id="sid" autocomplete="off" maxlength="20" required></div>
+      <div><label for="nm">Name</label><input type="text" id="nm" autocomplete="name" maxlength="60" required></div>
+    </div>
+    <label for="file">Answer file (.csv or .xlsx)</label>
+    <input type="file" id="file" accept=".csv,.xlsx,text/csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" required>
+    <div class="row"><button type="submit" id="go">Check my answers</button><span id="busy" class="muted" aria-live="polite"></span></div>
+  </form>
+  <div id="out" aria-live="polite"></div>
+</section>
+
+<section class="card">
+  <h2>How you are scored</h2>
+  <ul>
+    <li><b>Type %</b> and <b>Severity %</b>: the share of the 300 reports where that column is right.</li>
+    <li><b>Pass</b>: both Type and Severity are 95% or more. <b>Excellent</b>: both are 99% or more.</li>
+    <li>The checker lists the ids where at least one column is wrong. It does not say which column or what the right label is: go back to the rules in the problem statement.</li>
+    <li>Every check is recorded for your teacher (student ID, name, time and score).</li>
+  </ul>
+</section>
+</main>
+<footer>All incident reports are fictional. Chemical Engineering, AI for Data Work.</footer>
+<script src="config.js"></script>
+<script src="vendor/xlsx.full.min.js"></script>
+<script src="checker-core.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
