@@ -1,0 +1,300 @@
+1. Smoke coming from the smouldering power cable of oven OV-550 in Lab 4; unplugged, the cable was scorched, no flame seen.
+2. Trailing extension cable across the walkway in the teaching lab; a student tripped but did not fall or get hurt.
+3. Argon cylinder found standing unchained beside the bench in the teaching lab; chained up.
+4. Centrifuge C-827 in Lab 4 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+5. 1.95 L of 37% hydrochloric acid spilled inside the spill tray in Lab 1; absorbed with spill pads.
+6. 300 mL of 37% hydrochloric acid spilled onto the bench from a cracked bottle in the teaching lab; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
+7. Trailing extension cable across the walkway in pilot plant bay A; a student tripped but did not fall or get hurt.
+8. Fixed gas detector in pilot plant bay B alarmed at 16% LEL; a small leak was found at a flange on line L-109 and tightened.
+9. Centrifuge C-180 in pilot plant bay B stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+10. Drop of 37% hydrochloric acid splashed into a student's eye while pipetting in the analytical lab; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+11. Flash fire at the rotary evaporator in Lab 1; the user's forearm was burned and treated at the university clinic by a nurse.
+12. Hot silicone oil spilled from bath B-223 onto a technician's hand in the teaching lab; burn cooled under running water for 20 minutes, first aid only.
+13. Technician's hand caught in the belt guard gap of mixer M-358; three stitches at the clinic and one day off work.
+14. Centrifuge C-275 in Lab 2 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+15. Flame at the neck of a flask of acetone on the hot plate in Lab 4; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+16. Centrifuge C-118 in pilot plant bay A stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+17. Centrifuge C-173 in Lab 2 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+18. 150 mL of 98% sulfuric acid spilled on the floor of Lab 3 when a bottle was knocked over; cleaned up with the spill kit.
+19. Spare glass condenser found cracked in the cupboard of the analytical lab; thrown away.
+20. 150 mL of 37% hydrochloric acid spilled on the floor of Lab 2 when a bottle was knocked over; cleaned up with the spill kit.
+21. Drum of 37% hydrochloric acid punctured by a forklift in the store yard; about 22 L ran onto the ground before the leak was plugged.
+22. A cardboard box caught fire next to a Bunsen burner in Lab 4; put out with a CO2 extinguisher within seconds, no damage.
+23. Steam hissing from a valve gland on the jacket of reactor R-375 in pilot plant bay A; gland tightened.
+24. Unlabelled bottle of clear liquid found on a shelf in Lab 2; set aside for disposal.
+25. Flame at the neck of a flask of methanol on the hot plate in the teaching lab; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+26. Forklift dented the side panel of storage rack 4 in the store; rack still sound, nothing fell.
+27. Relief valve PSV-442 on reactor R-224 did not lift during its bench test; removed and replaced.
+28. Weep of ethanol from the drain valve of tank T-164; about 250 mL collected in the drip tray underneath.
+29. Weep of acetone from the drain valve of tank T-556; about 50 mL collected in the drip tray underneath.
+30. Drop of aqueous ammonia splashed into a student's eye while pipetting in Lab 4; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+31. Spare glass condenser found cracked in the cupboard of Lab 3; thrown away.
+32. Paper towels caught fire next to a Bunsen burner in Lab 3; put out with a CO2 extinguisher within seconds, no damage.
+33. Contractor started grinding near the solvent store without a hot-work permit; work stopped by the area owner, no sparks reached the store.
+34. Carbon dioxide cylinder found standing unchained beside the bench in pilot plant bay A; chained up.
+35. Operator strained his back lifting a 25 kg drum in Lab 4; first aider applied a cold pack, he finished the shift.
+36. 750 mL of acetone spilled on the bench in Lab 3 and was ignited by a nearby heater; put out with a dry powder extinguisher.
+37. Feed pump P-747 tripped on motor overload in pilot plant bay A; the run was stopped for 2 hours.
+38. Fume hood FH-469 in Lab 4: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+39. 700 mL of hexane spilled on the bench in the teaching lab and was ignited by a nearby heater; put out with a dry powder extinguisher.
+40. Operator strained his back lifting a 25 kg drum in Lab 2; first aider applied a cold pack, he finished the shift.
+41. Weep of methanol from the drain valve of tank T-735; about 0.05 L collected in the drip tray underneath.
+42. Centrifuge C-866 in Lab 3 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+43. Burning smell from hot plate HP-374 in pilot plant bay B; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+44. Steam hissing from a valve gland on the jacket of reactor R-295 in pilot plant bay A; gland tightened.
+45. Operator strained his back lifting a 25 kg drum in pilot plant bay B; first aider applied a cold pack, he finished the shift.
+46. Relief valve PSV-768 on reactor R-497 did not lift during its bench test; removed and replaced.
+47. Forklift dented the side panel of storage rack 1 in the store; rack still sound, nothing fell.
+48. Steam hissing from a valve gland on the jacket of reactor R-876 in pilot plant bay B; gland tightened.
+49. Student slipped on a wet floor in pilot plant bay A and was taken to hospital; X-ray showed a broken wrist.
+50. Burning smell from hot plate HP-702 in pilot plant bay B; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+51. Relief valve PSV-601 on reactor R-891 did not lift during its bench test; removed and replaced.
+52. Steam hissing from a valve gland on the jacket of reactor R-315 in pilot plant bay B; gland tightened.
+53. Centrifuge C-774 in Lab 3 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+54. Feed pump P-348 tripped on motor overload in pilot plant bay A; the run was stopped for 2 hours.
+55. Argon cylinder found standing unchained beside the bench in pilot plant bay A; chained up.
+56. Sprinkler went off in the teaching lab after a waste bin fire; the building was evacuated for 30 minutes.
+57. Student seen decanting 37% hydrochloric acid in the teaching lab without the required face shield; stopped and reminded, nothing spilled.
+58. Steam hissing from a valve gland on the jacket of reactor R-190 in pilot plant bay A; gland tightened.
+59. Flame at the neck of a flask of ethanol on the hot plate in Lab 2; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+60. Trailing extension cable across the walkway in Lab 3; a student tripped but did not fall or get hurt.
+61. Feed pump P-555 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
+62. Flame at the neck of a flask of methanol on the hot plate in Lab 3; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+63. Flame at the neck of a flask of methanol on the hot plate in Lab 1; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+64. Student felt dizzy after weighing methanol on the open bench in pilot plant bay A; recovered after 10 minutes in fresh air, no treatment.
+65. About 7.85 L of demineralised water leaked from a split hose onto the floor of Lab 2 and ran into the floor drain.
+66. Spare glass condenser found cracked in the cupboard of the teaching lab; thrown away.
+67. 2.15 L of 37% hydrochloric acid spilled inside the spill tray in the teaching lab; absorbed with spill pads.
+68. 400 mL of aqueous ammonia was poured down the lab sink in pilot plant bay A instead of into the waste container.
+69. Sprinkler went off in Lab 1 after a paper waste fire; the building was evacuated for 30 minutes.
+70. Technician's hand caught in the belt guard gap of mixer M-378; three stitches at the clinic and one day off work.
+71. Sprinkler went off in the teaching lab after a paper waste fire; the building was evacuated for 30 minutes.
+72. Technician's hand caught in the belt guard gap of mixer M-633; three stitches at the clinic and one day off work.
+73. Weekly test: the emergency shower in Lab 3 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+74. Centrifuge C-515 in Lab 3 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+75. Technician cut a finger on a broken beaker while washing up in Lab 3; cleaned and covered with a plaster by the first aider.
+76. Technician's hand caught in the belt guard gap of mixer M-217; three stitches at the clinic and one day off work.
+77. Fire in the motor of stirrer ST-574 in pilot plant bay B; the area was evacuated and the fire brigade attended.
+78. Student felt dizzy after weighing acetone on the open bench in Lab 2; recovered after 10 minutes in fresh air, no treatment.
+79. Weekly test: the eyewash station in pilot plant bay A gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+80. Fixed gas detector in pilot plant bay A alarmed at 25% LEL; a small leak was found at a flange on line L-107 and tightened.
+81. Operator strained his back lifting a 25 kg drum in Lab 3; first aider applied a cold pack, he finished the shift.
+82. Drop of aqueous ammonia splashed into a student's eye while pipetting in pilot plant bay B; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+83. Student slipped on a wet floor in Lab 3 and was taken to hospital; X-ray showed a broken wrist.
+84. Technician's hand caught in the belt guard gap of mixer M-467; three stitches at the clinic and one day off work.
+85. Drop of 37% hydrochloric acid splashed into a student's eye while pipetting in Lab 1; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+86. Spare glass condenser found cracked in the cupboard of pilot plant bay A; thrown away.
+87. Weep of 30% sodium hydroxide from the drain valve of tank T-689; about 350 mL collected in the drip tray underneath.
+88. Fume hood FH-202 in Lab 4: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+89. Fume hood FH-192 in pilot plant bay B: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+90. Feed pump P-776 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
+91. Drum of methanol punctured by a forklift in the store yard; about 22 L ran onto the ground before the leak was plugged.
+92. Student seen decanting 98% sulfuric acid in the analytical lab without the required face shield; stopped and reminded, nothing spilled.
+93. Spare glass condenser found cracked in the cupboard of pilot plant bay B; thrown away.
+94. Student seen decanting 37% hydrochloric acid in Lab 3 without the required face shield; stopped and reminded, nothing spilled.
+95. Sprinkler went off in the analytical lab after a paper waste fire; the building was evacuated for 30 minutes.
+96. During a walk-round a jumper wire was found bypassing the door interlock of oven OV-583 in Lab 4; removed, no one admitted fitting it.
+97. Compressed air hissing from a push-fit connector on the air line in Lab 2; connector replaced.
+98. Argon cylinder found standing unchained beside the bench in Lab 3; chained up.
+99. Steam hissing from a valve gland on the jacket of reactor R-297 in pilot plant bay A; gland tightened.
+100. Student felt dizzy after weighing hexane on the open bench in the teaching lab; recovered after 10 minutes in fresh air, no treatment.
+101. 0.4 L of acetone spilled on the bench in pilot plant bay B and was ignited by a nearby heater; put out with a dry powder extinguisher.
+102. Fire in the motor of stirrer ST-526 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+103. About 3.6 L of demineralised water leaked from a split hose onto the floor of pilot plant bay B and ran into the floor drain.
+104. 250 mL of hexane spilled on the bench in the analytical lab and was ignited by a nearby heater; put out with a dry powder extinguisher.
+105. 600 mL of 37% hydrochloric acid spilled onto the bench from a cracked bottle in the teaching lab; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
+106. Trailing extension cable across the walkway in Lab 1; a student tripped but did not fall or get hurt.
+107. Fitter began opening pump P-328 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+108. Feed pump P-884 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
+109. Operator strained his back lifting a 25 kg drum in pilot plant bay A; first aider applied a cold pack, he finished the shift.
+110. Weekly test: the emergency shower in Lab 1 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+111. Technician's hand caught in the belt guard gap of mixer M-444; three stitches at the clinic and one day off work.
+112. Weekly test: the eyewash station in Lab 3 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+113. Reactor R-699 reached 6 °C above its high-temperature trip setting, but the trip did not act; operator shut the heater off by hand.
+114. Fitter began opening pump P-437 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+115. 150 mL of 37% hydrochloric acid was poured down the lab sink in Lab 1 instead of into the waste container.
+116. Fixed gas detector in pilot plant bay B alarmed at 29% LEL; a small leak was found at a flange on line L-823 and tightened.
+117. Fire in the motor of stirrer ST-643 in pilot plant bay B; the area was evacuated and the fire brigade attended.
+118. Flame at the neck of a flask of acetone on the hot plate in Lab 1; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+119. Small fire on the hot plate in Lab 4 put out with a CO2 extinguisher; the student had a small burn on one finger treated with burn gel by the first aider.
+120. Small blue flame seen at the burner hose joint in Lab 3; it went out when the gas tap was closed, hose replaced.
+121. Technician's hand caught in the belt guard gap of mixer M-291; three stitches at the clinic and one day off work.
+122. Fixed gas detector in pilot plant bay A alarmed at 21% LEL; a small leak was found at a flange on line L-308 and tightened.
+123. Technician's hand caught in the belt guard gap of mixer M-546; three stitches at the clinic and one day off work.
+124. Centrifuge C-176 in Lab 3 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+125. Trailing extension cable across the walkway in Lab 4; a student tripped but did not fall or get hurt.
+126. Centrifuge C-160 in Lab 4 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+127. Drum of 30% sodium hydroxide punctured by a forklift in the store yard; about 36 L ran onto the ground before the leak was plugged.
+128. About 3.9 L of 5% salt solution leaked from a split hose onto the floor of Lab 4 and ran into the floor drain.
+129. Steam hissing from a valve gland on the jacket of reactor R-174 in pilot plant bay B; gland tightened.
+130. Drum of 98% sulfuric acid punctured by a forklift in the store yard; about 36 L ran onto the ground before the leak was plugged.
+131. Fire in the motor of stirrer ST-202 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+132. Compressed air hissing from a push-fit connector on the air line in pilot plant bay A; connector replaced.
+133. Weep of hexane from the drain valve of tank T-352; about 300 mL collected in the drip tray underneath.
+134. A clipboard fell from the mezzanine of pilot plant bay A into the barricaded area below; nobody was there.
+135. Technician cut a finger on a broken beaker while washing up in the analytical lab; cleaned and covered with a plaster by the first aider.
+136. Operator strained his back lifting a 25 kg drum in the analytical lab; first aider applied a cold pack, he finished the shift.
+137. Technician's hand caught in the belt guard gap of mixer M-178; three stitches at the clinic and one day off work.
+138. Small fire on the hot plate in the analytical lab put out with a CO2 extinguisher; the student had a small burn on one finger treated with burn gel by the first aider.
+139. Unlabelled flask of clear liquid found on a shelf in the analytical lab; set aside for disposal.
+140. Reactor R-340 reached 15 °C above its high-temperature trip setting, but the trip did not act; operator shut the heater off by hand.
+141. Fitter began opening pump P-853 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+142. Weep of 37% hydrochloric acid from the drain valve of tank T-340; about 100 mL collected in the drip tray underneath.
+143. Student slipped on a wet floor in the teaching lab and was taken to hospital; X-ray showed a broken wrist.
+144. Weep of acetone from the drain valve of tank T-382; about 50 mL collected in the drip tray underneath.
+145. Fume hood FH-821 in Lab 2: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+146. Argon cylinder found standing unchained beside the bench in pilot plant bay B; chained up.
+147. Fume hood FH-642 in the teaching lab: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+148. Fire in the motor of stirrer ST-742 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+149. Hot silicone oil spilled from bath B-367 onto a technician's hand in pilot plant bay A; burn cooled under running water for 20 minutes, first aid only.
+150. Hot silicone oil spilled from bath B-532 onto a technician's hand in Lab 2; burn cooled under running water for 20 minutes, first aid only.
+151. 500 mL of ethanol spilled on the floor of Lab 2 when a bottle was knocked over; cleaned up with the spill kit.
+152. During a walk-round a jumper wire was found bypassing the door interlock of oven OV-133 in pilot plant bay B; removed, no one admitted fitting it.
+153. Drum of ethanol punctured by a forklift in the store yard; about 36 L ran onto the ground before the leak was plugged.
+154. Hot silicone oil spilled from bath B-264 onto a technician's hand in Lab 2; burn cooled under running water for 20 minutes, first aid only.
+155. Student felt dizzy after weighing acetone on the open bench in pilot plant bay B; recovered after 10 minutes in fresh air, no treatment.
+156. Fixed gas detector in pilot plant bay B alarmed at 17% LEL; a small leak was found at a flange on line L-307 and tightened.
+157. Trailing extension cable across the walkway in pilot plant bay B; a student tripped but did not fall or get hurt.
+158. Sprinkler went off in Lab 3 after a waste bin fire; the building was evacuated for 30 minutes.
+159. Centrifuge C-572 in the analytical lab stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+160. Drum of methanol punctured by a forklift in the store yard; about 42 L ran onto the ground before the leak was plugged.
+161. Argon cylinder found standing unchained beside the bench in the analytical lab; chained up.
+162. 400 mL of 37% hydrochloric acid was poured down the lab sink in Lab 3 instead of into the waste container.
+163. Weep of 37% hydrochloric acid from the drain valve of tank T-349; about 350 mL collected in the drip tray underneath.
+164. Feed pump P-107 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
+165. Relief valve PSV-650 on reactor R-659 did not lift during its bench test; removed and replaced.
+166. Student slipped on a wet floor in Lab 2 and was taken to hospital; X-ray showed a broken wrist.
+167. 450 mL of aqueous ammonia was poured down the lab sink in Lab 2 instead of into the waste container.
+168. Burning smell from hot plate HP-146 in Lab 4; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+169. Unlabelled bottle of yellow liquid found on a shelf in Lab 3; set aside for disposal.
+170. Sprinkler went off in Lab 4 after a cardboard box fire; the building was evacuated for 30 minutes.
+171. Flash fire at the rotary evaporator in pilot plant bay B; the user's forearm was burned and treated at the university clinic by a nurse.
+172. Student seen decanting 30% sodium hydroxide in Lab 2 without the required face shield; stopped and reminded, nothing spilled.
+173. Flame at the neck of a flask of ethanol on the hot plate in pilot plant bay B; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+174. Compressed air hissing from a push-fit connector on the air line in the analytical lab; connector replaced.
+175. Steam hissing from a valve gland on the jacket of reactor R-381 in pilot plant bay A; gland tightened.
+176. Forklift dented the side panel of storage rack 6 in the store; rack still sound, nothing fell.
+177. Drop of 30% sodium hydroxide splashed into a student's eye while pipetting in Lab 1; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+178. Flame at the neck of a flask of toluene on the hot plate in Lab 4; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+179. 550 mL of toluene spilled on the bench in pilot plant bay B and was ignited by a nearby heater; put out with a dry powder extinguisher.
+180. Fire in the motor of stirrer ST-460 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+181. Sprinkler went off in the teaching lab after a cardboard box fire; the building was evacuated for 30 minutes.
+182. Cooling water pump P-141 tripped; the standby pump started automatically and the experiment carried on without interruption.
+183. Centrifuge C-761 in Lab 4 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+184. Unlabelled jar of clear liquid found on a shelf in Lab 2; set aside for disposal.
+185. Hot silicone oil spilled from bath B-125 onto a technician's hand in Lab 1; burn cooled under running water for 20 minutes, first aid only.
+186. Cooling water pump P-274 tripped; the standby pump started automatically and the experiment carried on without interruption.
+187. Fitter began opening pump P-298 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+188. 450 mL of 98% sulfuric acid spilled inside the fume hood in Lab 1; absorbed with spill pads.
+189. Flash fire at the rotary evaporator in the analytical lab; the user's forearm was burned and treated at the university clinic by a nurse.
+190. Feed pump P-308 tripped on motor overload in pilot plant bay A; the run was stopped for 2 hours.
+191. Flash fire at the rotary evaporator in Lab 4; the user's forearm was burned and treated at the university clinic by a nurse.
+192. 450 mL of methanol spilled on the floor of Lab 4 when a bottle was knocked over; cleaned up with the spill kit.
+193. About 3.45 L of demineralised water leaked from a split hose onto the floor of pilot plant bay A and ran into the floor drain.
+194. Cooling water pump P-257 tripped; the standby pump started automatically and the experiment carried on without interruption.
+195. 1950 mL of 37% hydrochloric acid spilled inside the spill tray in Lab 1; absorbed with spill pads.
+196. 300 mL of acetone spilled on the floor of Lab 2 when a bottle was knocked over; cleaned up with the spill kit.
+197. Fire in the motor of stirrer ST-582 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+198. Small blue flame seen at the burner hose joint in the teaching lab; it went out when the gas tap was closed, hose replaced.
+199. Relief valve PSV-703 on reactor R-866 did not lift during its bench test; removed and replaced.
+200. Weep of 37% hydrochloric acid from the drain valve of tank T-501; about 300 mL collected in the drip tray underneath.
+201. Small fire on the hot plate in pilot plant bay A put out with a CO2 extinguisher; the student had a small burn on one finger treated with burn gel by the first aider.
+202. Compressed air hissing from a push-fit connector on the air line in Lab 1; connector replaced.
+203. Fixed gas detector in pilot plant bay B alarmed at 23% LEL; a small leak was found at a flange on line L-271 and tightened.
+204. Fixed gas detector in pilot plant bay A alarmed at 25% LEL; a small leak was found at a flange on line L-285 and tightened.
+205. Compressed air hissing from a push-fit connector on the air line in the teaching lab; connector replaced.
+206. Student felt dizzy after weighing ethanol on the open bench in pilot plant bay A; recovered after 10 minutes in fresh air, no treatment.
+207. Weep of 98% sulfuric acid from the drain valve of tank T-453; about 400 mL collected in the drip tray underneath.
+208. Weep of 30% sodium hydroxide from the drain valve of tank T-444; about 100 mL collected in the drip tray underneath.
+209. Student felt dizzy after weighing acetone on the open bench in Lab 3; recovered after 10 minutes in fresh air, no treatment.
+210. 1.05 L of 98% sulfuric acid spilled inside the spill tray in Lab 4; absorbed with spill pads.
+211. Fire in the motor of stirrer ST-871 in pilot plant bay A; the area was evacuated and the fire brigade attended.
+212. Feed pump P-301 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
+213. 400 mL of 30% sodium hydroxide spilled onto the bench from a cracked bottle in the teaching lab; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
+214. A cardboard box caught fire next to a Bunsen burner in Lab 3; put out with a CO2 extinguisher within seconds, no damage.
+215. A clipboard fell from the mezzanine of pilot plant bay B into the barricaded area below; nobody was there.
+216. Carbon dioxide cylinder found standing unchained beside the bench in pilot plant bay B; chained up.
+217. Student felt dizzy after weighing hexane on the open bench in Lab 1; recovered after 10 minutes in fresh air, no treatment.
+218. Centrifuge C-166 in pilot plant bay B stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
+219. Technician cut a finger on a broken beaker while washing up in pilot plant bay B; cleaned and covered with a plaster by the first aider.
+220. 1.05 L of hexane spilled inside the fume hood in Lab 1; absorbed with spill pads.
+221. Fitter began opening pump P-398 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+222. Cooling water pump P-775 tripped; the standby pump started automatically and the experiment carried on without interruption.
+223. 200 mL of 98% sulfuric acid spilled on the floor of the analytical lab when a bottle was knocked over; cleaned up with the spill kit.
+224. Weep of 37% hydrochloric acid from the drain valve of tank T-525; about 0.35 L collected in the drip tray underneath.
+225. Unlabelled bottle of cloudy liquid found on a shelf in Lab 2; set aside for disposal.
+226. Forklift dented the side panel of storage rack 7 in the store; rack still sound, nothing fell.
+227. Fixed gas detector in pilot plant bay B alarmed at 19% LEL; a small leak was found at a flange on line L-317 and tightened.
+228. Weekly test: the eyewash station in Lab 2 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+229. A spanner fell from the mezzanine of pilot plant bay B into the barricaded area below; nobody was there.
+230. A cardboard box caught fire next to a Bunsen burner in the analytical lab; put out with a CO2 extinguisher within seconds, no damage.
+231. Sprinkler went off in Lab 3 after a cardboard box fire; the building was evacuated for 30 minutes.
+232. Nitrogen cylinder found standing unchained beside the bench in the analytical lab; chained up.
+233. Smoke coming from the smouldering power cable of oven OV-712 in the analytical lab; unplugged, the cable was scorched, no flame seen.
+234. Technician's hand caught in the belt guard gap of mixer M-611; three stitches at the clinic and one day off work.
+235. Technician cut a finger on a broken beaker while washing up in Lab 2; cleaned and covered with a plaster by the first aider.
+236. Fire in the motor of stirrer ST-846 in pilot plant bay B; the area was evacuated and the fire brigade attended.
+237. Weep of 98% sulfuric acid from the drain valve of tank T-812; about 300 mL collected in the drip tray underneath.
+238. Smoke coming from the smouldering power cable of oven OV-371 in Lab 3; unplugged, the cable was scorched, no flame seen.
+239. 500 mL of acetone spilled on the bench in Lab 1 and was ignited by a nearby heater; put out with a dry powder extinguisher.
+240. Technician's hand caught in the belt guard gap of mixer M-310; three stitches at the clinic and one day off work.
+241. Fitter began opening pump P-659 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+242. Steam hissing from a valve gland on the jacket of reactor R-214 in pilot plant bay B; gland tightened.
+243. 750 mL of methanol spilled on the bench in Lab 4 and was ignited by a nearby heater; put out with a dry powder extinguisher.
+244. Nitrogen cylinder found standing unchained beside the bench in Lab 2; chained up.
+245. Burning smell from hot plate HP-293 in Lab 1; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+246. Weep of toluene from the drain valve of tank T-675; about 400 mL collected in the drip tray underneath.
+247. About 7.85 L of cooling water leaked from a split hose onto the floor of pilot plant bay B and ran into the floor drain.
+248. Burning smell from hot plate HP-495 in pilot plant bay A; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+249. 250 mL of aqueous ammonia spilled on the floor of Lab 3 when a bottle was knocked over; cleaned up with the spill kit.
+250. Flame at the neck of a flask of hexane on the hot plate in Lab 1; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+251. Reactor R-590 reached 7 °C above its high-temperature trip setting, but the trip did not act; operator shut the heater off by hand.
+252. Spare glass condenser found cracked in the cupboard of Lab 4; thrown away.
+253. 150 mL of aqueous ammonia spilled onto the bench from a cracked bottle in Lab 2; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
+254. Flame at the neck of a flask of toluene on the hot plate in the analytical lab; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
+255. Student slipped on a wet floor in the analytical lab and was taken to hospital; X-ray showed a broken wrist.
+256. Weekly test: the emergency shower in pilot plant bay B gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+257. Student slipped on a wet floor in Lab 1 and was taken to hospital; X-ray showed a broken wrist.
+258. Nitrogen cylinder found standing unchained beside the bench in pilot plant bay A; chained up.
+259. Technician cut a finger on a broken beaker while washing up in Lab 4; cleaned and covered with a plaster by the first aider.
+260. A torch fell from the mezzanine of pilot plant bay B into the barricaded area below; nobody was there.
+261. Sprinkler went off in Lab 2 after a cardboard box fire; the building was evacuated for 30 minutes.
+262. Technician cut a finger on a broken beaker while washing up in pilot plant bay A; cleaned and covered with a plaster by the first aider.
+263. Forklift dented the side panel of storage rack 2 in the store; rack still sound, nothing fell.
+264. Student felt dizzy after weighing toluene on the open bench in Lab 2; recovered after 10 minutes in fresh air, no treatment.
+265. Hot silicone oil spilled from bath B-548 onto a technician's hand in pilot plant bay A; burn cooled under running water for 20 minutes, first aid only.
+266. Smoke coming from the smouldering power cable of oven OV-520 in the teaching lab; unplugged, the cable was scorched, no flame seen.
+267. Technician cut a finger on a broken beaker while washing up in Lab 1; cleaned and covered with a plaster by the first aider.
+268. Paper towels caught fire next to a Bunsen burner in the teaching lab; put out with a CO2 extinguisher within seconds, no damage.
+269. Student felt dizzy after weighing toluene on the open bench in pilot plant bay B; recovered after 10 minutes in fresh air, no treatment.
+270. Forklift dented the side panel of storage rack 8 in the store; rack still sound, nothing fell.
+271. Reactor R-307 reached 6 °C above its high-temperature trip setting, but the trip did not act; operator shut the heater off by hand.
+272. 500 mL of aqueous ammonia was poured down the lab sink in Lab 4 instead of into the waste container.
+273. Fume hood FH-230 in Lab 1: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+274. About 5.75 L of 5% salt solution leaked from a split hose onto the floor of Lab 2 and ran into the floor drain.
+275. 100 mL of 30% sodium hydroxide spilled on the floor of the teaching lab when a bottle was knocked over; cleaned up with the spill kit.
+276. During a walk-round a jumper wire was found bypassing the door interlock of oven OV-422 in the teaching lab; removed, no one admitted fitting it.
+277. Student felt dizzy after weighing hexane on the open bench in the analytical lab; recovered after 10 minutes in fresh air, no treatment.
+278. Technician's hand caught in the belt guard gap of mixer M-438; three stitches at the clinic and one day off work.
+279. Fixed gas detector in pilot plant bay A alarmed at 17% LEL; a small leak was found at a flange on line L-812 and tightened.
+280. A torch fell from the mezzanine of pilot plant bay A into the barricaded area below; nobody was there.
+281. Burning smell from hot plate HP-477 in Lab 3; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+282. Fitter began opening pump P-594 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
+283. Sprinkler went off in Lab 1 after a cardboard box fire; the building was evacuated for 30 minutes.
+284. Feed pump P-738 tripped on motor overload in pilot plant bay A; the run was stopped for 2 hours.
+285. Forklift dented the side panel of storage rack 5 in the store; rack still sound, nothing fell.
+286. Fume hood FH-832 in pilot plant bay A: sash fully open and face velocity well below the limit, but the low-flow alarm did not sound.
+287. Drum of 98% sulfuric acid punctured by a forklift in the store yard; about 55 L ran onto the ground before the leak was plugged.
+288. Sprinkler went off in pilot plant bay B after a waste bin fire; the building was evacuated for 30 minutes.
+289. Small fire on the hot plate in Lab 1 put out with a CO2 extinguisher; the student had a small burn on one finger treated with burn gel by the first aider.
+290. 200 mL of hexane spilled on the bench in the teaching lab and was ignited by a nearby heater; put out with a dry powder extinguisher.
+291. Burning smell from hot plate HP-545 in Lab 1; no smoke or flame, controller found faulty and the experiment had to stop until it was replaced.
+292. Unlabelled flask of cloudy liquid found on a shelf in Lab 3; set aside for disposal.
+293. Small blue flame seen at the burner hose joint in Lab 4; it went out when the gas tap was closed, hose replaced.
+294. Hot silicone oil spilled from bath B-463 onto a technician's hand in Lab 4; burn cooled under running water for 20 minutes, first aid only.
+295. 1850 mL of 98% sulfuric acid spilled inside the spill tray in Lab 2; absorbed with spill pads.
+296. Drop of aqueous ammonia splashed into a student's eye while pipetting in pilot plant bay A; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
+297. Helium cylinder found standing unchained beside the bench in Lab 3; chained up.
+298. Technician's hand caught in the belt guard gap of mixer M-783; three stitches at the clinic and one day off work.
+299. 150 mL of 98% sulfuric acid spilled onto the bench from a cracked bottle in the analytical lab; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
+300. Student seen decanting 98% sulfuric acid in Lab 2 without the required face shield; stopped and reminded, nothing spilled.
