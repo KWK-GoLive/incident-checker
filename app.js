@@ -3,6 +3,7 @@
   "use strict";
   var C = window.IncCore, URL_ = ((window.INC_CONFIG || {}).CHECKER_URL || "").trim();
   var $ = function (id) { return document.getElementById(id); };
+  var lastSub = null;
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   try { var p = JSON.parse(localStorage.getItem("inc-student") || "{}"); if (p.sid) $("sid").value = p.sid; if (p.nm) $("nm").value = p.nm; } catch (e) {}
 
@@ -28,7 +29,7 @@
   function call(payload) {
     var q = "action=check&payload=" + encodeURIComponent(JSON.stringify(payload)) + "&t=" + Date.now();
     var ctl = window.AbortController ? new AbortController() : null;
-    var timer = setTimeout(function () { if (ctl) ctl.abort(); }, 40000);
+    var timer = setTimeout(function () { if (ctl) ctl.abort(); }, 90000);
     return fetch(URL_ + (URL_.indexOf("?") >= 0 ? "&" : "?") + q, { cache: "no-store", signal: ctl ? ctl.signal : undefined })
       .then(function (r) { return r.json(); })
       .finally(function () { clearTimeout(timer); });
@@ -70,12 +71,16 @@
     readFile(file).then(function (rows) {
       var v = C.validate(rows);
       if (!v.ok) { out.innerHTML = box("err", "Your file has format problems (nothing was scored or recorded):", v.errors) + (v.warnings.length ? box("warn", "Note", v.warnings) : ""); return; }
-      return call({ studentId: sid, name: nm, codes: v.codes }).then(function (r) {
+      // Same student + same answers as the last upload (e.g. a retry after a slow reply): reuse its submission id,
+      // so the server returns the first result instead of logging a second attempt.
+      if (!(lastSub && lastSub.codes === v.codes && lastSub.sid === sid))
+        lastSub = { codes: v.codes, sid: sid, id: Date.now().toString(36) + Math.random().toString(36).slice(2, 10) };
+      return call({ studentId: sid, name: nm, codes: v.codes, submissionId: lastSub.id }).then(function (r) {
         if (!r || !r.ok) { out.innerHTML = box("err", (r && r.error) || "The checker gave no answer. Try again in a minute.", []); return; }
         show(r, v.warnings);
       });
     }).catch(function (e) {
-      out.innerHTML = box("err", e && e.name === "AbortError" ? "The checker took too long to answer. Try again in a minute." : (e && e.message && !/fetch/i.test(e.message) ? e.message : "Could not reach the checker. Check your internet connection and try again."), []);
+      out.innerHTML = box("err", e && e.name === "AbortError" ? "The checker took too long to answer. Wait a minute and press the button again (the same file will not be counted twice)." : (e && e.message && !/fetch/i.test(e.message) ? e.message : "Could not reach the checker. Check your internet connection and try again."), []);
     }).finally(function () { $("go").disabled = false; $("busy").textContent = ""; });
   });
 })();
