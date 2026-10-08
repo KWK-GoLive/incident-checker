@@ -10,7 +10,8 @@
   function readFile(file) {
     return new Promise(function (res, rej) {
       var name = file.name.toLowerCase(), fr = new FileReader();
-      fr.onerror = function () { rej(new Error("The file could not be read.")); };
+      function uerr(m) { var e = new Error(m); e.user = true; return e; }
+      fr.onerror = function () { rej(uerr("The file could not be read.")); };
       if (/\.csv$/.test(name) || file.type === "text/csv") {
         fr.onload = function () { res(C.parseCSV(fr.result)); };
         fr.readAsText(file);
@@ -20,10 +21,10 @@
             var wb = XLSX.read(new Uint8Array(fr.result), { type: "array" });
             var ws = wb.Sheets[wb.SheetNames[0]];
             res(XLSX.utils.sheet_to_json(ws, { header: 1, defval: "", raw: true, blankrows: false }).map(function (r) { return r.map(function (c) { return c == null ? "" : String(c); }); }));
-          } catch (e) { rej(new Error("This does not look like a valid .xlsx file.")); }
+          } catch (e) { rej(uerr("This does not look like a valid .xlsx file.")); }
         };
         fr.readAsArrayBuffer(file);
-      } else rej(new Error("Please upload a .csv or .xlsx file (this one is \"" + file.name + "\")."));
+      } else rej(uerr("Please upload a .csv or .xlsx file (this one is \"" + file.name + "\")."));
     });
   }
   function call(payload) {
@@ -80,7 +81,7 @@
         show(r, v.warnings);
       });
     }).catch(function (e) {
-      out.innerHTML = box("err", e && e.name === "AbortError" ? "The checker took too long to answer. Wait a minute and press the button again (the same file will not be counted twice)." : (e && e.message && !/fetch/i.test(e.message) ? e.message : "Could not reach the checker. Check your internet connection and try again."), []);
+      out.innerHTML = box("err", e && e.name === "AbortError" ? "The checker took too long to answer. Wait a minute and press the button again without reloading the page (then the same file is not counted twice)." : (e && e.user ? e.message : "Could not reach the checker. Check your internet connection and try again in a minute."), []);
     }).finally(function () { $("go").disabled = false; $("busy").textContent = ""; });
   });
 })();

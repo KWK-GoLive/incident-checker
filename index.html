@@ -6,7 +6,7 @@
 <title>Incident Classification Checker</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <header><div class="in">
@@ -40,27 +40,27 @@
         <tr><th class="rn"></th><th>A</th><th>B</th><th>C</th></tr>
         <tr><td class="rn">1</td><td>id</td><td>type</td><td>severity</td></tr>
         <tr><td class="rn">2</td><td>1</td><td>Release</td><td>Medium</td></tr>
-        <tr><td class="rn">3</td><td>2</td><td>Near miss</td><td>Low</td></tr>
+        <tr><td class="rn">3</td><td>2</td><td>Equipment</td><td>High</td></tr>
         <tr><td class="rn">4</td><td>3</td><td>Injury</td><td>High</td></tr>
         <tr><td class="rn">…</td><td>…</td><td>…</td><td>…</td></tr>
-        <tr><td class="rn">301</td><td>300</td><td>Equipment</td><td>Medium</td></tr>
+        <tr><td class="rn">301</td><td>300</td><td>Fire</td><td>High</td></tr>
       </table></div>
     </div>
     <div>
       <p><b>CSV (.csv)</b>: plain text, comma between columns.</p>
 <pre class="csv">id,type,severity
 1,Release,Medium
-2,Near miss,Low
+2,Equipment,High
 3,Injury,High
 …
-300,Equipment,Medium</pre>
+300,Fire,High</pre>
     </div>
   </div>
   <p class="muted" style="margin:4px 0 8px">The labels in these examples only show the layout. They are not the answers.</p>
   <ul>
     <li>Header row with exactly these three column names: <code>id</code>, <code>type</code>, <code>severity</code>. The order of the columns does not matter. Other columns are ignored.</li>
     <li>300 rows: ids 1 to 300, each id once.</li>
-    <li>Upper or lower case and extra spaces do not matter (<code>near miss</code> = <code>Near miss</code>), but the spelling must match.</li>
+    <li>Upper or lower case and extra spaces do not matter (<code>near miss</code> = <code>Near miss</code>; write it with a space), but the spelling must match.</li>
   </ul>
   <p style="margin:8px 0 2px"><b>type</b> must be one of:</p>
   <div class="chips"><span class="chip">Injury</span><span class="chip">Fire</span><span class="chip">Release</span><span class="chip">Equipment</span><span class="chip">Near miss</span></div>
@@ -93,9 +93,9 @@
 </section>
 </main>
 <footer>All incident reports are fictional. Chemical Engineering, AI for Data Work.</footer>
-<script src="config.js?v=2"></script>
+<script src="config.js?v=3"></script>
 <script src="xlsx.full.min.js"></script>
-<script src="checker-core.js?v=2"></script>
-<script src="app.js?v=2"></script>
+<script src="checker-core.js?v=3"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>

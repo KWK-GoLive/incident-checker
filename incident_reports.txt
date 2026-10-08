@@ -70,13 +70,13 @@
 70. Technician's hand caught in the belt guard gap of mixer M-378; three stitches at the clinic and one day off work.
 71. Sprinkler went off in the teaching lab after a paper waste fire; the building was evacuated for 30 minutes.
 72. Technician's hand caught in the belt guard gap of mixer M-633; three stitches at the clinic and one day off work.
-73. Weekly test: the emergency shower in Lab 3 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+73. Weekly test: the emergency shower in Lab 3 gave almost no water, far below the required flow; tagged out of use until repaired.
 74. Centrifuge C-515 in Lab 3 stopped with an imbalance error and its lid lock jammed; samples could not be run that day.
 75. Technician cut a finger on a broken beaker while washing up in Lab 3; cleaned and covered with a plaster by the first aider.
 76. Technician's hand caught in the belt guard gap of mixer M-217; three stitches at the clinic and one day off work.
 77. Fire in the motor of stirrer ST-574 in pilot plant bay B; the area was evacuated and the fire brigade attended.
 78. Student felt dizzy after weighing acetone on the open bench in Lab 2; recovered after 10 minutes in fresh air, no treatment.
-79. Weekly test: the eyewash station in pilot plant bay A gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+79. Weekly test: the eyewash station in pilot plant bay A gave almost no water, far below the required flow; tagged out of use until repaired.
 80. Fixed gas detector in pilot plant bay A alarmed at 25% LEL; a small leak was found at a flange on line L-107 and tightened.
 81. Operator strained his back lifting a 25 kg drum in Lab 3; first aider applied a cold pack, he finished the shift.
 82. Drop of aqueous ammonia splashed into a student's eye while pipetting in pilot plant bay B; eyes rinsed at the eyewash for 15 minutes, no further treatment needed.
@@ -107,9 +107,9 @@
 107. Fitter began opening pump P-328 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
 108. Feed pump P-884 tripped on motor overload in pilot plant bay B; the run was stopped for 2 hours.
 109. Operator strained his back lifting a 25 kg drum in pilot plant bay A; first aider applied a cold pack, he finished the shift.
-110. Weekly test: the emergency shower in Lab 1 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+110. Weekly test: the emergency shower in Lab 1 gave almost no water, far below the required flow; tagged out of use until repaired.
 111. Technician's hand caught in the belt guard gap of mixer M-444; three stitches at the clinic and one day off work.
-112. Weekly test: the eyewash station in Lab 3 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+112. Weekly test: the eyewash station in Lab 3 gave almost no water, far below the required flow; tagged out of use until repaired.
 113. Reactor R-699 reached 6 °C above its high-temperature trip setting, but the trip did not act; operator shut the heater off by hand.
 114. Fitter began opening pump P-437 without isolating and locking out the motor; supervisor stopped the job before any part was removed.
 115. 150 mL of 37% hydrochloric acid was poured down the lab sink in Lab 1 instead of into the waste container.
@@ -225,7 +225,7 @@
 225. Unlabelled bottle of cloudy liquid found on a shelf in Lab 2; set aside for disposal.
 226. Forklift dented the side panel of storage rack 7 in the store; rack still sound, nothing fell.
 227. Fixed gas detector in pilot plant bay B alarmed at 19% LEL; a small leak was found at a flange on line L-317 and tightened.
-228. Weekly test: the eyewash station in Lab 2 gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+228. Weekly test: the eyewash station in Lab 2 gave almost no water, far below the required flow; tagged out of use until repaired.
 229. A spanner fell from the mezzanine of pilot plant bay B into the barricaded area below; nobody was there.
 230. A cardboard box caught fire next to a Bunsen burner in the analytical lab; put out with a CO2 extinguisher within seconds, no damage.
 231. Sprinkler went off in Lab 3 after a cardboard box fire; the building was evacuated for 30 minutes.
@@ -253,7 +253,7 @@
 253. 150 mL of aqueous ammonia spilled onto the bench from a cracked bottle in Lab 2; some splashed onto a student's wrist, washed off at the safety shower, slight redness, no further treatment.
 254. Flame at the neck of a flask of toluene on the hot plate in the analytical lab; the user switched off the hot plate and covered the neck with a watch glass, flame out at once.
 255. Student slipped on a wet floor in the analytical lab and was taken to hospital; X-ray showed a broken wrist.
-256. Weekly test: the emergency shower in pilot plant bay B gave only a weak trickle, far below the required flow; tagged out of use until repaired.
+256. Weekly test: the emergency shower in pilot plant bay B gave almost no water, far below the required flow; tagged out of use until repaired.
 257. Student slipped on a wet floor in Lab 1 and was taken to hospital; X-ray showed a broken wrist.
 258. Nitrogen cylinder found standing unchained beside the bench in pilot plant bay A; chained up.
 259. Technician cut a finger on a broken beaker while washing up in Lab 4; cleaned and covered with a plaster by the first aider.
