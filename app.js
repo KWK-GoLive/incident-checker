@@ -77,7 +77,7 @@
       if (!(lastSub && lastSub.codes === v.codes && lastSub.sid === sid))
         lastSub = { codes: v.codes, sid: sid, id: Date.now().toString(36) + Math.random().toString(36).slice(2, 10) };
       return call({ studentId: sid, name: nm, codes: v.codes, submissionId: lastSub.id }).then(function (r) {
-        if (!r || !r.ok) { out.innerHTML = box("err", (r && r.error) || "The checker gave no answer. Try again in a minute.", []); return; }
+        if (!r || !r.ok) { var msg = r && r.error && !/^Server error/.test(r.error) ? r.error : "The checker is busy or had a problem. Wait a minute and press the button again."; out.innerHTML = box("err", msg, []); return; }
         show(r, v.warnings);
       });
     }).catch(function (e) {
